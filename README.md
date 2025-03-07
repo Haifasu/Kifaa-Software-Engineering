@@ -37,6 +37,9 @@ The system follows a **Client-Server Architecture** and utilizes a **NoSQL Datab
 
 ## 🔗 GitHub Repository 
 https://github.com/Haifasu/Kifaa-Software-Engineering.git
+## 🔗 Live Demo
+The project is hosted on GitHub Pages. You can view it here:  
+🔗 [Live Website](https://your-username.github.io/repository-name/)
 
 ## 📊 Jira Board
 - **Jira Board Link:**
