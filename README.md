@@ -36,6 +36,7 @@ The system follows a **Client-Server Architecture** and utilizes a **NoSQL Datab
 - **Daad Al-Ali** 
 
 ## 🔗 GitHub Repository 
+https://github.com/Haifasu/Kifaa-Software-Engineering.git
 
 ## 📊 Jira Board
 - **Jira Board Link:**
