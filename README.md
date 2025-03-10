@@ -43,4 +43,4 @@ The project is hosted on GitHub Pages. You can view it here:
 
 ## 📊 Jira Board
 - **Jira Board Link:**
-  https://2025-it320320-section69233-5.atlassian.net/jira/software/projects/GP/boards/3?atlOrigin=eyJpIjoiZmZlNzU1ZmUwODY1NDlkNjliNWJjOTIwZTFhZTRiYWIiLCJwIjoiaiJ9
+ https://2025-it320320-section66849-g5.atlassian.net/jira/software/projects/GP/boards/2/backlog?atlOrigin=eyJpIjoiNjc5N2JkMjYyZDkyNGNiYzhiZWM1M2ViODcyODViNWIiLCJwIjoiaiJ9
